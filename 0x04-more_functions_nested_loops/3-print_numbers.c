@@ -12,6 +12,6 @@ void print_numbers(void)
 	while (c < 10)
 		_putchar(c);
 		c++;
-	putchar(c);
+	putchar('\n');
 }
 
