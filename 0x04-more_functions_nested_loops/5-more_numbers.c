@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - print numbers till 14
+ * more_numbers - print numbers till
  *
  *
  * Return: values
